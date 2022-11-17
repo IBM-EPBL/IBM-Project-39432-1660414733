@@ -23,7 +23,7 @@ program for innovation, employability and entrepreneurship.
 ## Project workflow : ![](https://im4.ezgif.com/tmp/ezgif-4-0adc3a9409.webp)
 ### Applicant Credibility Prediction for Loan Approval
 * Project Progress
-* [Project planning] - [https://github.com/IBM-EPBL/IBM-Project-17145-1659629015/blob/main/Project%20Planning/project-planning-for-applicant-loan-credibility.pdf]
+* [Project planning] - [https://github.com/IBM-EPBL/IBM-Project-39432-1660414733/blob/main/Project%20planning/Project%20Planning.%20doc.pdf]
 * [Empathy Map] - [https://github.com/IBM-EPBL/IBM-Project-17145-1659629015/blob/main/Project%20Planning/empathy-map.pdf]
 * [Brainstrom Map] - [https://github.com/IBM-EPBL/IBM-Project-17145-1659629015/blob/main/Project%20Planning/brainstrom-map.pdf]
 
